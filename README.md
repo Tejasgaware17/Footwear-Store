@@ -117,6 +117,8 @@ Footwear-Store/
    http://127.0.0.1:8000/
    ```
 
+8. You can add static images for the sections of the wesite as all static images are not present.
+
 ---
 
 ## ⭐ Support
